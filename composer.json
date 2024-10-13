@@ -1,0 +1,17 @@
+{
+    "name": "asus/secure-php-authentication-test-web-app",
+    "autoload": {
+        "psr-4": {
+            "Asus\\SecurePhpAuthenticationTestWebApp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "oshinijayanethmi",
+            "email": "jayanethmioshini@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
